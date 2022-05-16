@@ -1,2 +1,2 @@
 # chmoulik.github.io
-alergotech bh
+alergotech
