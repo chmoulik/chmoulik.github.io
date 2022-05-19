@@ -1,0 +1,26 @@
+* {
+	font-family: arial;
+}
+h1  { 
+	color: #8B0000;
+	background: #D3D3D3;
+	font-size: 30px;
+	text-align: center;
+	line-height: 150%;
+ }
+ nav {
+ 	line-height: 130%;
+ 	text-align: center;
+ }
+ h5 {text-align: center;
+ }
+ span 
+ {
+     color: #808080;
+ }
+ 
+ section, header, aside{
+ 	background-color: #F5F5F5;
+	text-align:left;
+	line-height: 200%;
+ }
