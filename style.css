@@ -1,0 +1,68 @@
+* {
+	font-family: arial;
+	letter-spacing:1px;
+} 
+h1  { 
+	color: #880000;
+	background: #D3D3D3;
+	font-size: 32px !important;
+	text-align: center;
+	line-height: 150%;
+ }
+ #titre {
+	font-family: times;
+	font-weight: lighter;
+	font-style: italic;
+	font-size: 20px;}
+
+ h2 {
+    text-align: center;
+ }
+ nav {
+ 	line-height: 130%;
+ 	text-align: center;
+ }
+ h5 {text-align: left;
+ }
+ span 
+ {
+     color: #808080;
+ }
+
+section.machine {
+	background-color:black;
+	padding:10%;
+	vertical-align: vertical;}
+ 
+section, header, aside{
+ 	background-color: #F5F5F5;
+	text-align:left;
+	line-height: 200%;
+	font-size: 16px;}
+
+#.top{
+	vertical-align: top;}
+
+#.baseline{
+	vertical-align: baseline;}
+#.bottom {
+	vertical-align: bottom;}
+ul {
+   text-align: left;
+   padding:rihte;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
