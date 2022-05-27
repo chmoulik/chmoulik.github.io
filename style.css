@@ -83,11 +83,13 @@ section.machine {
 	padding:10%;
 	vertical-align: vertical;}
  
-section, header, aside{
- 	background-color: #F5F5F5;
+section, aside{
+ 	background-color: black;
 	text-align:left;
 	line-height: 200%;
-	font-size: 16px;}
+	font-size: 16px;
+	color: white;
+}
 
 ul {
    text-align: left;
@@ -97,13 +99,6 @@ img.skintest {
    	background: black;
       width: 80%;
       padding: 10%;}
-
-
-
-
-
-
-
 
 
 
