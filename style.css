@@ -1,51 +1,82 @@
-* {
-	font-family: arial;
-	letter-spacing:1px;
-} 
-h1  { 
-	color: #880000;
-	background: #D3D3D3;
-	font-size: 32px !important;
+body {
+	font-family: "Raleway", sans-serif;
+}
+
+span {
+	color: gray;
+}
+
+
+.header {
+    width: 99%;
+    text-align: center;
+}   
+
+.logo {
 	text-align: center;
-	line-height: 150%;
- }
- #titre {
-	font-family: times;
-	font-weight: lighter;
+    color:red;
+    font-size: 27px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.navbar {
+	    text-align: center;
+		color: gray;
+	    font-weight: 900;
+	    padding: 10px;
+	    margin: 0px;
+
+}
+
+#l2 {
 	font-style: italic;
-	font-size: 20px;}
+	font-family: time;
+	font-size:20px ;
+	margin: 0px;
+}
+
+h1 {
+	padding: 0px;
+	color: red;
+	font-size: 26px;
+}
+
+a:hover {
+    color: red;
+}
+
+
+a {
+	color: #696969;
+	display:center;
+	padding: 3px;
+	margin: 8px;
+	text-decoration: none;
+	display: inline-block;    
+}
+
+
+
+
+
+
+
+/*a partire d'ici il faut retatravailler cette anciene page*/
+
+
+
+
+
 
  h2 {
     text-align: center;
  }
 
-ul {
-	text-style-type: none;
- 	margin: 0;
- 	padding: 0;
- 	text-align: center;
- 	background: black;
-   position: -webkit-sticky; /* Safari */
-   position: sticky;
-     overflow: hidden;
- 	
-
-}
-a, li {
- 		display: inline-block;
-      color: white;
-      text-decoration: none;
-      padding: 5px;
-
- }
-
-
  h5 {text-align: left;
  }
- span 
- {
-     color: #808080;
- }
+
 
 section.machine {
 	background-color:black;
