@@ -16,8 +16,8 @@ span {
 	text-align: center;
     color:red;
     font-size: 27px;
-    padding: 10px;
-    margin: 10px;
+    padding: 15px;
+    margin: 15px;
     display: inline-block;
 }
 
@@ -25,8 +25,8 @@ span {
 	    text-align: center;
 		color: gray;
 	    font-weight: 900;
-	    padding: 10px;
-	    margin: 0px;
+	    padding: 5px;
+	    margin: 25px;
 
 }
 
