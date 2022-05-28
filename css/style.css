@@ -27,9 +27,6 @@ span {
 	    font-weight: 900;
 	    padding: 5px;
 	    margin: 25px;
-	    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
-            transition:  0.3s;
-
 }
 
 #l2 {
@@ -47,6 +44,8 @@ h1 {
 
 a:hover {
     color: red;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    transition:  0.3s;
 }
 
 
