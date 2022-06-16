@@ -1,0 +1,217 @@
+body {
+	font-family: "Raleway", sans-serif;
+	color: gray;
+}
+
+/* ce span est lié à l'ancien logo aussi*/
+span {
+	color: gray;
+}
+
+
+.header {
+    width: 100%;
+    display: flex;
+    margin: 0px;
+
+}   
+
+.logo {
+    color:red;
+    padding: 30px;
+    margin: 10px 0px 0px 20px;
+    text-align: left;
+    width: 250px;
+
+}
+
+.navbar {
+		color: gray;
+	    font-weight: 900;
+	    padding: 5px;
+	    margin: 5px 35px 0px 85px;
+	    align-items: center;
+        display: flex;
+
+
+}
+
+.eternument {
+        display: flex;
+        font-size: 25px;
+        align-items:center ;
+        font-weight: 700px;
+        margin: 20px 0px 0px 60px;
+}
+
+.cinquante {
+	    margin: 60px;
+	    text-align: center;
+	    font-family: arial, sans-serif;
+}
+
+/* ancien logo
+ #l2 {
+	    font-style: italic;
+	    font-family: time;
+	    font-size:20px ;
+	    margin: 0px;
+}
+*/
+
+/*image prick-test...
+
+.skintest {
+	margin: 60px 50px 60px 60px ;
+	text-align: right;
+	border: solid 1px;
+	}
+
+
+.article1 {
+    font-weight: 700px;
+	margin: 0px;
+	padding: 20px;
+	text-align: left;
+    width: 200px;
+text-align: center;
+display:inline-block ;
+align-items: center;
+border: dashed;
+
+}
+
+*/
+
+.mution {
+	margin: 60px;
+	text-align: right;
+
+
+
+}
+
+.text-mution {
+	text-align: left;
+	width: 600px;
+	float: left;
+
+}
+
+
+h1 {
+     	padding: 0px;
+    	color: red;
+	    font-size: 26px;
+	    text-align: center;
+
+}
+
+a:hover {
+       color: red;
+       transition:  0.3s;
+
+}
+
+
+a {
+	color: #696969;
+	padding: 15px;
+	margin: 8px;
+	text-decoration: none;
+	display: inline-block; 
+
+}
+
+/*
+.image1 {
+	margin: 0px 0px;
+    
+}
+
+
+
+ lier a l'allergologie en chiffre... 
+#s2 {
+   
+    background-color: black;
+    color: white;
+    padding:20px ;
+
+}
+
+#s1 {
+	margin: 50px 0px;
+}
+
+*/
+
+ h2 {
+    text-align: center;
+ }
+
+ h5 {text-align: left;
+ }
+
+
+#prick {
+	margin: 30px;
+	padding: 10px;	
+
+}
+
+#prick-back {
+		background: #F5F5F5;
+}
+article {
+	display: block;
+}
+
+
+summary{
+	color: green;
+	weidht: 15px;
+	font-size: 16px;
+	width: 100px;
+}
+
+.Prick-Test2 {
+	text-align: left;
+	margin: 0px 20px 0px 50px;
+	padding: 20px;
+	align-items: right
+}
+
+
+footer {
+		background: black;
+		text-align: center;
+		padding: 0px 0px 100px 0px;
+}
+
+.mail {
+	margin: 10px;
+	color: white;
+    padding: 20px;
+    margin: 30px;
+    width: 20px;
+
+}
+
+#contact a:hover {
+	color: yellowgreen;
+}
+
+#formulaire, #message{
+	text-align: center;
+	align-items: center;
+	display: inline-block;
+	padding: 0px;
+}
+
+#maps {
+	text-align: center;
+	align-items: center;
+	display: inline-block;
+	padding: 40px;
+}
