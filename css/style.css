@@ -183,6 +183,58 @@ summary{
 }
 
 
+
+
+
+/* ici commance le responsive */
+@media all and (max-width: 1024px)
+
+{
+	.navbar {
+		flex-direction: column;
+
+	}
+
+	body{
+		width: auto;
+	}
+	.eternument{
+		display: none;
+	}
+	
+	#skintest{
+    	display: block;
+    	max-width: 90%; height: auto;
+    	margin: 0px 0px 0px 60px;
+    }
+
+    #motion{
+    	display: block;
+    }
+    
+    #vmution{
+    	display: none;
+    }
+
+    #pmution{
+    	display: ;
+    	max-width: 50%; hight: auto;
+    }
+       
+    .navbar{
+    	margin: 0px;
+    }
+    #message {
+	width: 357px; height: 100px;
+
+	}
+	.accessibility1 {
+		display: none;
+	}
+
+}
+
+
 footer {
 		background: black;
 		text-align: center;
